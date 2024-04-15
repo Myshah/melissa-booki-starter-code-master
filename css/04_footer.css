@@ -1,0 +1,55 @@
+/****** Footer ***********/
+
+footer {
+    display: flex;
+    background-color: #f2f2f2;
+    padding: 1.25em;
+}
+  
+footer h3 {
+    margin: 0em;
+}
+  
+.footer-propos {
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    gap: 0.9375em;
+}
+.footer-propos a {
+    display: flex;
+    flex-direction: column;
+}
+.footer-propos a:hover {
+    text-decoration: underline;
+}
+  
+.footer-hebergements {
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    gap: 0.9375em;
+}
+  
+.footer-hebergements a {
+    display: flex;
+    flex-direction: column;
+}
+.footer-hebergements a:hover {
+    text-decoration: underline;
+}
+  
+.footer-assistance {
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    gap: 0.9375em;
+}
+.footer-assistance a {
+    display: flex;
+    flex-direction: column;
+}
+.footer-assistance a:hover {
+    text-decoration: underline;
+}
+  
