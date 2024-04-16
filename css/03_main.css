@@ -139,8 +139,7 @@ input {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: 0.6875em;
-    padding-bottom: 0.625em;
+    padding-bottom: 0.60em;
 }
   
 .bulle-info p {
