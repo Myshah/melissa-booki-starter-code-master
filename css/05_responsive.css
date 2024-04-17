@@ -93,7 +93,7 @@
         display: flex;
         justify-content: center;
     }
-    
+
     .bordure-nav-mobile {
         display: flex;
         justify-content: center;
@@ -178,6 +178,8 @@
         justify-content: flex-start;
         gap: 5%;
         padding: 0% 3%;
+        margin-top: 3%;
+        margin-right: 3%;
     }
     
     .boutons-filtre i {
@@ -211,6 +213,7 @@
     .hebergements-and-populaires {
         flex-direction: column-reverse;
         justify-content: space-between;
+        margin-top: 20px;
     }
     
     .hebergements-and-populaires section {
