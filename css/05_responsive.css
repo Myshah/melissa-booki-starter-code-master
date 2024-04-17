@@ -123,8 +123,8 @@
     
     .zone-recherche {
         padding: 0em 1.25em;
-        min-height: 27em;
-        gap: 10%;
+        min-height: 23.5em;
+        gap: 08%;
     }
     
     /* titre et para */
@@ -189,6 +189,9 @@
     .bulle-info {
         height: 2.375em;
         flex-wrap: nowrap;
+        padding-top: 0px;
+        margin-top: -10px; 
+        margin-bottom:-20px;
     }
     
     .information_icon {
