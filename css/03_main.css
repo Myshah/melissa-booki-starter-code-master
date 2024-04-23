@@ -58,7 +58,13 @@ h1 {
 }
   
 .texte-recherche {
-    display: flex;
+    border: none;
+    outline: none;
+    height: 100%;
+    font-size: 1.125rem;
+
+    font-weight: bold;
+    text-align: center;
 }
   
 input {

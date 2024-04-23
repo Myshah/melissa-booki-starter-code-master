@@ -11,6 +11,10 @@
     .zone-recherche {
         height: 20.125em;
     }
+
+    .searching-bar {
+        width: 69.25%;
+    }
     
     .filtres {
         display: flex;
